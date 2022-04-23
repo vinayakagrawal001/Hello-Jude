@@ -27,3 +27,12 @@ blockquote {
     font-weight: bold;
     padding: 10px;
 }
+
+.two-column {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    /* Spacing between columns */
+    gap: 50px;
+    width: 100%;
+}
