@@ -1,1 +1,11 @@
 /* Add your styles here */
+.two-column{
+    background-color: rgb(255, 220, 220);
+
+}
+.right{
+    text-align: center;
+    font-size: 16;
+    font-weight: bold;
+    font-style: unset;
+}
